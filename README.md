@@ -2,7 +2,7 @@
 ## Sales Report :
 
 
-- **Project objective:** 
+- **Project overview:** 
 
      **1.** Create a _[customer performance report](https://github.com/AbhiAnki123/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
 
@@ -16,7 +16,7 @@
 
 ## Finance Report :
 
-- **Project objective:** 
+- **Project overview:** 
 
      **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AbhiAnki123/Excel-Sales-Analytics/blob/main/P%26L%20statement%20by%20year.pdf)_
 
